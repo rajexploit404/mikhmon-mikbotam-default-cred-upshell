@@ -34,7 +34,8 @@ It is strongly recommended to change these credentials immediately after install
 
 4. **Access the Shell:**
    - Click the "QR or Image" button to trigger the uploaded PHP file execution.
-      ![image](https://github.com/user-attachments/assets/ae398b05-b193-41dc-804c-ca952b93d8ef)
+
+     ![image](https://github.com/user-attachments/assets/ae398b05-b193-41dc-804c-ca952b93d8ef)
 
 5. **Result:**
    - And Bumm
