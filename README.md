@@ -23,13 +23,22 @@ It is strongly recommended to change these credentials immediately after install
 1. **Login:** Access the application using the default credentials.
 2. **Add Router:** Add a new router.
 3. **Edit Voucher Template:**
-   - Open the "Edit Template" section.
+   - Open the "Template Editor" section.
    - Upload an HTML file containing malicious PHP code such as:
      ```php
      <?php phpinfo(); ?>
      ```
+     ![image](https://github.com/user-attachments/assets/25b3823c-0703-4a21-a7a4-45c1e0c35897)
+
+
+
 4. **Access the Shell:**
-   - Click the "QR" button to trigger the uploaded PHP file execution.
+   - Click the "QR or Image" button to trigger the uploaded PHP file execution.
+      ![image](https://github.com/user-attachments/assets/ae398b05-b193-41dc-804c-ca952b93d8ef)
+
+5. **Result:**
+   - And Bumm
+     ![image](https://github.com/user-attachments/assets/42968a69-239f-49e0-b243-5eba2ea38ea6)
 
 ---
 
