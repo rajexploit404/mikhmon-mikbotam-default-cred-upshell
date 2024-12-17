@@ -75,7 +75,7 @@ intitle:"MIKHMON" intext:"Please Login"
 ```
 intitle:"MIKBOTAM" Sign In Forgot password?
 ```
-
+Use dorking as a powerful tool to identify vulnerabilities and strengthen cybersecurity defenses. Develop your dorking skills responsibly, and contribute to making the digital world safer without causing harm. Let’s work together as ethical pentesters to create a more secure internet.
 ---
 
 ## **6. Security Recommendations**
