@@ -1,4 +1,4 @@
-# README - Dorking Vulnerabilities in Mikhmon and Mikbotam
+# Dorking Vulnerabilities in Mikhmon and Mikbotam
 
 ## **1. General Information**
 Mikhmon and Mikbotam are web-based applications used for managing Mikrotik hotspots. However, if default configurations are not changed, these applications are vulnerable to unauthorized access and malicious code execution.
